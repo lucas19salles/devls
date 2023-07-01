@@ -8,7 +8,7 @@ body {
   display: grid;
   margin-top: 60px;
   justify-content: center;
-  background: #b7b7b7;
+  background: #e7e7e7;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -128,6 +128,14 @@ img {
   .header,
   .header img {
     gap: 30px;
+  }
+
+  .zelda {
+    order: 1;
+  }
+
+  .rodape {
+    margin-top: 20px;
   }
 }
 
